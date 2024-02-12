@@ -5,7 +5,7 @@ Click on `Use this template` to copy the Mintlify starter kit. The starter kit c
 
 | Common Error Messages | Description | Suggested Solutions |
 | --- | --- | --- |
-| Preview Error | fdsfsadfasdfalsjflasdjfklasdjfksnkvcansudkfjwidsfjaosifjdiosfmnadskifjaoisdfjaosdfjiasdjfoadsjfmoasdjfaosdmfcadlsfjaosdfmcodsaijfoaisjfasodfjasodjfasdjfosdfjoads| Select the preview browser when prompting the Salla CLI [`preview`](doc-422776?nav=01HNA8QHCPJTCY5VSEZ616JCAK) command. |
+| Preview Error | `fdsfsadfasdfalsjflasdjfklasdjfksnkvcansudkfjwidsfjaosifjdiosfmnadskifjaoisdfjaosdfjiasdjfoadsjfmoasdjfaosdmfcadlsfjaosdfmcodsaijfoaisjfasodfjasodjfasdjfosdfjoads`| Select the preview browser when prompting the Salla CLI [`preview`](doc-422776?nav=01HNA8QHCPJTCY5VSEZ616JCAK) command. |
 | Non-existent Theme ID | The theme ID doesn't exist in your developer account. | Re-login through the CLI using the command [salla login](doc-422762?nav=01HNA8QHCPJTCY5VSEZ616JCAK). |
 | CLI Request Failure | The CLI failed to request a preview for the theme. | Reconnect your [Github](https://github.com/) account to Salla and give all authorizations. |
 | Web Socket Issue | There's an issue with the web socket. | Contact support via [Telegram](https://t.me/SallaSupportBot). |
